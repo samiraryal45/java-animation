@@ -44,7 +44,7 @@ body {
     align-items: center;
     gap: 10px;
     animation-name: animatemodel;
-    animation-duration: .4s;
+    animation-duration: .8s;
 }
 #close-btn{
     font-size: 2rem;
