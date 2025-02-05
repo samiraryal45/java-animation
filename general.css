@@ -46,7 +46,9 @@
     
    
     #model{
-        font-size: 1rem;
+        display: flex;
+        justify-content: space-between ;
+        font-size: 0.5rem;
         padding: 2em;
     }
     #close-btn{

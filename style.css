@@ -26,9 +26,11 @@ body {
     color: var(--clr-black);
 }
 #model-description{
-    margin: 0;
+     width: 80%;
+   
 }
 #model{
+    width: 20%;
     font-size: 1.5rem;
     display: inline-block;
     background-color: var(--clr-white);
@@ -40,13 +42,13 @@ body {
     border: 1px solid var(--clr-black);
     border-radius: 5px;
     display: flex;
-    justify-content: space-between ;
     align-items: center;
-    gap: 10px;
+    justify-content: space-between;
     animation-name: animatemodel;
     animation-duration: .8s;
-}
+}   
 #close-btn{
+   
     font-size: 2rem;
     cursor: pointer;
     color: var(--clr-red);
