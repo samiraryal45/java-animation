@@ -10,4 +10,23 @@
 
 
 
-
+@media (min-width:1536px){
+    #btn{
+       
+        font-size: 2rem;
+        padding: 1em;
+       
+    }
+    
+   
+    #model{
+        font-size: 2rem;
+        padding: 1.5em;
+    }
+    #close-btn{
+        font-size: 2.5rem;
+        
+    }
+    
+   
+}
