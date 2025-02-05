@@ -30,3 +30,29 @@
     
    
 }
+
+
+@media (max-width:425px){
+
+    body{
+        height: 100vh;
+    }
+    #btn{
+       
+        font-size: 1rem;
+        padding: 0.5em;
+       
+    }
+    
+   
+    #model{
+        font-size: 1rem;
+        padding: 2em;
+    }
+    #close-btn{
+        font-size: 1rem;
+        
+    }
+    
+   
+}
